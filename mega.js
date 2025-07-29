@@ -56,7 +56,7 @@ function clearSessionCache() {
 
 const auth = {
   email: "masterblack20051031@gmail.com",  // Replace with your actual Mega email
-  password: "Arosha!@#200510",   // Replace with your actual Mega password
+  password: "Arosha2005@",   // Replace with your actual Mega password
   userAgent:
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",
 };
